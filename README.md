@@ -32,42 +32,6 @@ This project simulates a real-world bus reservation platform where users can bro
 
 ---
 
-## 📂 Project Structure
-
-```text
-bus-reservation-system/
-│
-├── app.py                # Streamlit user interface
-├── bus_system.py         # Core business logic
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 🚀 Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/bus-reservation-system.git
-cd bus-reservation-system
-```
-
-### Install Dependencies
-
-```bash
-pip install streamlit
-```
-
-### Run the Application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 🎯 Application Modules
 
 ### 1. Available Buses
